@@ -1,0 +1,25 @@
+Delta,DA123,11:00,Boston,Houston,No,Airbus,2006,123,Unexpired,341874
+Emirates,EM324,12:10,California,Rayleigh,Yes,Airbus,2004,34,Unexpired,234767
+Delta,DA123,15:25,Boston ,California,Yes,Boeing,2010,34,Unexpired,764594
+American,AA111,20:30,Miami,Las Vegas,Yes,Gulfstream,2000,101,Expired,356135
+Ethihad,ET333,2:05,Charlotte,San Diego,No,Pilatus,2015,210,Expired,234467
+Frontier,FR124,13:45,Austin,California,No,Gulfstream,2004,34,Unexpired,789745
+SouthWest,SW010,9:00,NewYork,Charlotte,Yes,Airbus,2005,112,Unexpired,783462
+Delta,DA038,14:25,Seattle,NewYork,Yes,Gulfstream,2000,104,Unexpired,504361
+British,BA178,4:35,Dallas,Austin,No,Cessna,2001,89,Unexpired,679036
+Frontier,FR124,1:00,Seattle,Phoenix,Yes,Airbus,2014,171,Unexpired,683591
+JetBlue,JB753,6:00,Madison,Boston,Yes,Pilatus,2005,176,Unexpired,590337
+British,BA346,9:30,Las Vegas,Miami,Yes,Boeing,2017,110,Unexpired,454678
+Ethihad,ET333,10:05,Lubbock,Orlando,No,Pilatus,2005,121,Expired,967045
+American,AA111,9:45,Baltimore,Boston,Yes,Cessna,2015,134,Unexpired,579450
+American,AA482,5:00,Boston,Rayleigh,Yes,Boeing,2011,123,Expired,102054
+Air Pacific,AP623,11:25,Denver,Boston,Yes,Boeing,2016,90,Unexpired,659236
+SouthWest,SW954,5:30,Dallas,Lubbock,No,Cessna,2000,163,Unexpired,874943
+Delta,DA123,23:10,Kansas City,Phoenix,Yes,Pilatus,2008,199,Unexpired,573528
+JetBlue,JB723,7:15,Houston,Baltimore,Yes,Gulfstream,2011,78,Expired,124305
+American,AA111,4:00,Lubbock,Madison,Yes,Boeing,2004,222,Unexpired,683474
+Frontier,FR124,19:30,NewYork,Dallas,No,Cessna,2012,60,Expired,568684
+Air Pacific,AP623,3:20,Las Vegas,Kansas City,Yes,Gulfstream,1999,210,Unexpired,346843
+JetBlue,JB832,15:10,Austin,Miami,Yes,Airbus,2011,123,Unexpired,263758
+Emirates,EM175,21:50,Phoenix,NewYork,No,Gulfstream,2003,255,Expired,528921
+British,BA355,14:25,Seattle,Baltimore,Yes,Boeing,2009,88,Unexpired,222211

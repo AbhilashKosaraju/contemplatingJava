@@ -1,0 +1,25 @@
+3418742,Boeing,Delta,Houston,11:00,Boston,11:00,137,137,13,200,No,2006,Valid
+2347467,Pilatus,Emirates,Rome,12:10,California,12:10,16,16,134,300,Yes,2004,Valid
+7645894,Cessna,Delta,Seattle,15:25,NewYork,15:25,16,16,134,500,Yes,2010,Valid
+3561935,Airbus,American,Dallas,20:30,Atlanta,20:30,60,60,90,400,Yes,2000,Expired
+2344067,Pilatus,Ethihad,Seattle,2:05,Phoenix,2:05,50,50,100,400,No,2015,Expired
+3418742,Gulfstream,Delta,London,13:45,Boston,13:45,137,137,13,300,No,2004,Valid
+2347467,Cessna,Emirates,Las Vegas,9:00,Miami,9:00,16,16,134,5000,Yes,2005,Valid
+7645894,Pilatus,Delta,Boston ,14:25,California,14:25,16,16,134,400,Yes,2000,Valid
+3561935,Cessna,American,Miami,4:35,Las Vegas,4:35,60,60,90,200,No,2001,Valid
+2344067,Pilatus,Ethihad,Charlotte,1:00,New Delhi,1:00,100,100,50,300,Yes,2014,Valid
+3418742,Gulfstream,Delta,Atlanta,6:00,California,6:00,30,30,120,500,Yes,2005,Valid
+2347467,Boeing,Emirates,NewYork,9:30,Charlotte,9:30,16,16,134,400,Yes,2017,Valid
+7645894,Cessna,Delta,Orlando,10:05,Istanbul,10:05,16,16,134,5000,No,2005,Expired
+3561935,Gulfstream,American,Seattle,9:45,Boston,9:45,60,60,90,400,Yes,2015,Valid
+2344067,Airbus,Ethihad,Singapore,5:00,Rome,5:00,50,50,100,200,Yes,2011,Expired
+3418742,Airbus,Delta,Budapest,11:25,Boston,11:25,137,137,13,300,Yes,2016,Valid
+2347467,Boeing,Emirates,Denver,5:30,Istanbul,5:30,16,16,134,500,No,2000,Valid
+7645894,Gulfstream,Delta,Dallas,23:10,Phoenix,23:10,16,16,134,5020,Yes,2008,Valid
+3561935,Airbus,American,Malaysia,7:15,Singapore,7:15,60,60,90,400,Yes,2011,Expired
+2344067,Gulfstream,Ethihad,Houston,4:00,London,4:00,50,50,100,200,Yes,2004,Valid
+3418742,Boeing,Delta,Istanbul,19:30,Dallas,19:30,137,137,13,300,No,2012,Expired
+2347467,Boeing,Emirates,NewYork,3:20,Malaysia,3:20,16,16,134,500,Yes,1999,Valid
+7645894,Airbus,Delta,Las Vegas,15:10,Miami,15:10,16,16,134,250,Yes,2011,Valid
+3561935,Gulfstream,American,Atlanta,21:50,NewYork,21:50,60,60,90,250,No,2003,Expired
+2344067,Boeing,Ethihad,Phoenix,14:25,Singapore,14:25,50,50,100,230,Yes,2009,Valid

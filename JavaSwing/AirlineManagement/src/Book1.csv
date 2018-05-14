@@ -1,0 +1,25 @@
+3418742,DA999,Boston,Houston,200,Delta,13,137,2006,Valid,No,Boeing,11:00
+2347467,EM666,California,Rome,300,Emirates,134,16,2004,Valid,Yes,Pilatus,12:10
+7645894,DA999,NewYork,Seattle,500,Delta,134,16,2010,Valid,Yes,Cessna,15:25
+3561935,AA777,Atlanta,Dallas,400,American,90,60,2000,Expired,Yes,Airbus,20:30
+2344067,ET123,Phoenix,Seattle,400,Ethihad,100,50,2015,Expired,No,Pilatus,2:05
+3418742,FR444,Boston,London,300,Delta,13,137,2004,Valid,No,Gulfstream,13:45
+2347467,SW010,Miami,Las Vegas,5000,Emirates,134,16,2005,Valid,Yes,Cessna,9:00
+7645894,DA038,California,Boston ,400,Delta,134,16,2000,Valid,Yes,Pilatus,14:25
+3561935,BA007,Las Vegas,Miami,200,American,90,60,2001,Valid,No,Cessna,4:35
+2344067,FR444,New Delhi,Charlotte,300,Ethihad,50,100,2014,Valid,Yes,Pilatus,1:00
+3418742,JB753,California,Atlanta,500,Delta,120,30,2005,Valid,Yes,Gulfstream,6:00
+2347467,AA777,Charlotte,NewYork,400,Emirates,134,16,2017,Valid,Yes,Boeing,9:30
+7645894,FR444,Istanbul,Orlando,5000,Delta,134,16,2005,Expired,No,Cessna,10:05
+3561935,AP555,Boston,Seattle,400,American,90,60,2015,Valid,Yes,Gulfstream,9:45
+2344067,JB888,Rome,Singapore,200,Ethihad,100,50,2011,Expired,Yes,Airbus,5:00
+3418742,EM571,Boston,Budapest,300,Delta,13,137,2016,Valid,Yes,Airbus,11:25
+2347467,BA567,Istanbul,Denver,500,Emirates,134,16,2000,Valid,No,Boeing,5:30
+7645894,SW954,Phoenix,Dallas,5020,Delta,134,16,2008,Valid,Yes,Gulfstream,23:10
+3561935,AA777,Singapore,Malaysia,400,American,90,60,2011,Expired,Yes,Airbus,7:15
+2344067,DA999,London,Houston,200,Ethihad,100,50,2004,Valid,Yes,Gulfstream,4:00
+3418742,JB723,Dallas,Istanbul,300,Delta,13,137,2012,Expired,No,Boeing,19:30
+2347467,BA355,Malaysia,NewYork,500,Emirates,134,16,1999,Valid,Yes,Boeing,3:20
+7645894,ET123,Miami,Las Vegas,250,Delta,134,16,2011,Valid,Yes,Airbus,15:10
+3561935,AA482,NewYork,Atlanta,250,American,90,60,2003,Expired,No,Gulfstream,21:50
+2344067,AP555,Singapore,Phoenix,230,Ethihad,100,50,2009,Valid,Yes,Boeing,14:25

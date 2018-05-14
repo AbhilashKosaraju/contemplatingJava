@@ -1,0 +1,25 @@
+Boeing,Male,DA999,Middle,3418742,Delta,13,,2006,Valid,No,Boeing,11:00
+Pilatus,Female,EM666,Window,2347467,Emirates,134,,2004,Valid,Yes,Pilatus,12:10
+Cessna,Male,DA999,Aisle,7645894,Delta,134,,2010,Valid,Yes,Cessna,15:25
+Airbus,Male,AA777,Aisle,3561935,American,90,,2000,Expired,Yes,Airbus,20:30
+Pilatus,Female,ET123,Middle,2344067,Ethihad,100,,2015,Expired,No,Pilatus,2:05
+Gulfstream,Female,FR444,Window,3418742,Delta,13,,2004,Valid,No,Gulfstream,13:45
+Cessna,Male,SW010,Aisle,2347467,Emirates,134,,2005,Valid,Yes,Cessna,9:00
+Pilatus,Female,DA038,Aisle,7645894,Delta,134,,2000,Valid,Yes,Pilatus,14:25
+Cessna,Male,BA007,Window,3561935,American,90,,2001,Valid,No,Cessna,4:35
+Pilatus,Male,FR444,Middle,2344067,Ethihad,100,,2014,Valid,Yes,Pilatus,1:00
+Gulfstream,Female,JB753,Middle,3418742,Delta,13,,2005,Valid,Yes,Gulfstream,6:00
+Boeing,Female,AA777,Window,2347467,Emirates,134,,2017,Valid,Yes,Boeing,9:30
+Cessna,Male,FR444,Middle,7645894,Delta,134,,2005,Expired,No,Cessna,10:05
+Gulfstream,Female,AP555,Window,3561935,American,90,,2015,Valid,Yes,Gulfstream,9:45
+Airbus,Male,JB888,Aisle,2344067,Ethihad,100,,2011,Expired,Yes,Airbus,5:00
+Airbus,Male,EM571,Aisle,3418742,Delta,13,,2016,Valid,Yes,Airbus,11:25
+Boeing,Female,BA567,Not Assigned,2347467,Emirates,134,,2000,Valid,No,Boeing,5:30
+Gulfstream,Female,SW954,Middle,7645894,Delta,134,,2008,Valid,Yes,Gulfstream,23:10
+Airbus,Male,AA777,Middle,3561935,American,90,,2011,Expired,Yes,Airbus,7:15
+Gulfstream,Female,DA999,Window,2344067,Ethihad,100,,2004,Valid,Yes,Gulfstream,4:00
+Boeing,Male,JB723,Not Assigned,3418742,Delta,13,,2012,Expired,No,Boeing,19:30
+Boeing,Male,BA355,Window,2347467,Emirates,134,,1999,Valid,Yes,Boeing,3:20
+Airbus,Female,ET123,Not Assigned,7645894,Delta,134,,2011,Valid,Yes,Airbus,15:10
+Gulfstream,Female,AA482,Aisle,3561935,American,90,,2003,Expired,No,Gulfstream,21:50
+Boeing,Male,AP555,Window,2344067,Ethihad,100,,2009,Valid,Yes,Boeing,14:25

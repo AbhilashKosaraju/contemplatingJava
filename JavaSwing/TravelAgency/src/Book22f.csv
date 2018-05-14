@@ -1,0 +1,25 @@
+Boeing,Male,DA999,Houston,Boston,Delta,Middle,3418742,3418742,200
+Pilatus,Female,EM666,Rome,California,Emirates,Window,2347467,2347467,300
+Cessna,Male,DA999,Seattle,NewYork,Delta,Aisle,7645894,7645894,500
+Airbus,Male,AA777,Dallas,Atlanta,American,Aisle,3561935,3561935,400
+Pilatus,Female,ET123,Seattle,Phoenix,Ethihad,Middle,2344067,2344067,400
+Gulfstream,Female,FR444,London,Boston,Delta,Window,3418742,3418742,300
+Cessna,Male,SW010,Las Vegas,Miami,Emirates,Aisle,2347467,2347467,5000
+Pilatus,Female,DA038,Boston ,California,Delta,Aisle,7645894,7645894,400
+Cessna,Male,BA007,Miami,Las Vegas,American,Window,3561935,3561935,200
+Pilatus,Male,FR444,Charlotte,New Delhi,Ethihad,Middle,2344067,2344067,300
+Gulfstream,Female,JB753,Atlanta,California,Delta,Middle,3418742,3418742,500
+Boeing,Female,AA777,NewYork,Charlotte,Emirates,Window,2347467,2347467,400
+Cessna,Male,FR444,Orlando,Istanbul,Delta,Middle,7645894,7645894,5000
+Gulfstream,Female,AP555,Seattle,Boston,American,Window,3561935,3561935,400
+Airbus,Male,JB888,Singapore,Rome,Ethihad,Aisle,2344067,2344067,200
+Airbus,Male,EM571,Budapest,Boston,Delta,Aisle,3418742,3418742,300
+Boeing,Female,BA567,Denver,Istanbul,Emirates,Not Assigned,2347467,2347467,500
+Gulfstream,Female,SW954,Dallas,Phoenix,Delta,Middle,7645894,7645894,5020
+Airbus,Male,AA777,Malaysia,Singapore,American,Middle,3561935,3561935,400
+Gulfstream,Female,DA999,Houston,London,Ethihad,Window,2344067,2344067,200
+Boeing,Male,JB723,Istanbul,Dallas,Delta,Not Assigned,3418742,3418742,300
+Boeing,Male,BA355,NewYork,Malaysia,Emirates,Window,2347467,2347467,500
+Airbus,Female,ET123,Las Vegas,Miami,Delta,Not Assigned,7645894,7645894,250
+Gulfstream,Female,AA482,Atlanta,NewYork,American,Aisle,3561935,3561935,250
+Boeing,Male,AP555,Phoenix,Singapore,Ethihad,Window,2344067,2344067,230
